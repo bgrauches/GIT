@@ -6,6 +6,6 @@ public class GIT {
 	}
 
 	public static void printHola() {
-   System.out.println("Hola GIT!");
+   System.out.println("Warap GIT!");
 	}
 }
